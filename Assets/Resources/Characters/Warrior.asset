@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1370506420dde09489c62821b94f6bd6, type: 3}
+  m_Name: Warrior
+  m_EditorClassIdentifier: 
+  <Object>k__BackingField: {fileID: 2542386540880483972, guid: df1757dae03b4ab40b1c41718af9dc16, type: 3}
+  <Description>k__BackingField: Warrior is the most tenacious.
